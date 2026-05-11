@@ -1,2 +1,42 @@
-# neon-hand-weaver
-Interactive AI-powered hand tracking project that creates glowing neon Cat’s Cradle patterns in real time using MediaPipe Hands and p5.js. Move both hands in front of your webcam to weave stunning futuristic string art directly in the browser.
+# ✨ Neon Hand Weaver
+
+An interactive AI-powered web experience that transforms your hands into glowing neon string art in real time.
+
+Using computer vision and hand tracking, this project connects your fingertips with vibrant animated lines to create a futuristic Cat's Cradle effect directly in the browser.
+
+---
+
+## 🌟 Features
+
+- ✋ Real-time hand tracking
+- 🌈 Dynamic neon strings between fingertips
+- ✨ Glowing effects and starbursts
+- 🪞 Mirror-style webcam interaction
+- 📱 Responsive full-screen design
+- ⚡ Runs entirely in the browser
+
+---
+
+## 🛠️ Built With
+
+- HTML5
+- CSS3
+- JavaScript
+- MediaPipe Hands
+- p5.js
+
+---
+
+## 📸 Preview
+
+![Preview](screenshot.png)
+
+---
+
+## 📂 Project Structure
+
+```text
+neon-hand-weaver/
+├── cats_cradle.html
+├── README.md
+└── LICENSE
