@@ -6,6 +6,12 @@ Using computer vision and hand tracking, this project connects your fingertips w
 
 ---
 
+## 📸 Preview
+
+![Neon Hand Weaver Demo](screenshot.jpeg)
+
+---
+
 ## 🌟 Features
 
 - ✋ Real-time hand tracking
@@ -32,8 +38,13 @@ Using computer vision and hand tracking, this project connects your fingertips w
 ```text
 neon-hand-weaver/
 ├── cats_cradle.html
+├── screenshot.jpeg
 ├── README.md
 └── LICENSE
+```
+
+---
+
 ## 🚀 Getting Started
 
 ### Clone the Repository
@@ -46,3 +57,43 @@ cd neon-hand-weaver
 ### Run the Project
 
 Open `cats_cradle.html` in your browser and allow camera access.
+
+---
+
+## 🎮 How It Works
+
+1. Detects up to two hands using MediaPipe Hands.
+2. Tracks fingertip positions in real time.
+3. Connects fingertips with glowing neon lines.
+4. Draws cross-connections to create woven patterns.
+5. Displays starburst effects when fingertips come close.
+
+---
+
+## 🌐 Live Demo
+
+You can deploy this project using:
+
+- GitHub Pages
+- Netlify
+- Vercel
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👨‍💻 Author
+
+**Gourab**
+
+Electronics enthusiast, robotics developer, and creative coder passionate about building futuristic interactive experiences.
+
+---
+
+## ⭐ Support
+
+If you like this project, please give it a ⭐ on GitHub and share it with others.
