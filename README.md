@@ -56,7 +56,7 @@ cd neon-hand-weaver
 
 ### Run the Project
 
-Open `cats_cradle.html` in your browser and allow camera access.
+Open `main.html` in your browser and allow camera access.
 
 ---
 
