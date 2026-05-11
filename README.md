@@ -34,3 +34,15 @@ neon-hand-weaver/
 ├── cats_cradle.html
 ├── README.md
 └── LICENSE
+## 🚀 Getting Started
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/gourab354/neon-hand-weaver.git
+cd neon-hand-weaver
+```
+
+### Run the Project
+
+Open `cats_cradle.html` in your browser and allow camera access.
