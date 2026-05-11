@@ -29,7 +29,7 @@ Using computer vision and hand tracking, this project connects your fingertips w
 
 ## 📸 Preview
 
-![Preview](screenshot.png)
+![Preview](WhatsApp Image 2026-05-11 at 2.44.32 PM)
 
 ---
 
